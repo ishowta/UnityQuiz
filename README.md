@@ -1,3 +1,3 @@
 # UnityQuiz
 
-[WIP] Quiz games of various kinds in 3D online multiplayer running on the web
+(WIP) Quiz games of various kinds in 3D online multiplayer running on the web
